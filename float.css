@@ -1,0 +1,40 @@
+body{
+	background-color: lavender;
+}
+#float{ 
+border: 1px solid black;
+width: 100%;
+height: 40vh;
+padding: 10px;
+}
+img{
+	width: 30%;
+	height: 30vh;
+	float: left;
+	margin: 30px;
+}
+
+
+p{
+	height: 30vh;
+	width: 40%;
+	float: right;
+}
+.box{
+	height: 70vh;
+	background-color: green;
+	width: 100%;
+}
+h1{
+	background-color: red;
+	height:30vh ;
+	width: 20%;
+	float: none;
+}
+h2{
+	color: whitesmoke;
+	height: 30vh;
+	width: 410px;
+	float: right;
+	background-color: orange;
+}
